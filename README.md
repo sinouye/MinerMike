@@ -10,7 +10,7 @@ This game features music from [Ketsa Music](https://ketsa.uk/) with the Creative
 
 ## Dependencies
 ### Libraries
-Libraries that are required to run this are OgreOverlay, audio, openal, OgreMain, OIS, and boost_system. Make sure these are stored in `/usr/local/lib/` and `/usr/lib/x86_64-linux-gnu`, as that is where Eclipse is set to look for these libraries.
+The libraries that are required to run this are OgreOverlay, audio, openal, OgreMain, OIS, and boost_system. Make sure these are stored in `/usr/local/lib/` and `/usr/lib/x86_64-linux-gnu`, as that is where Eclipse is set to look for these libraries.
 
 ### Includes
 Other include paths are required to match are as follows:  
